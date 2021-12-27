@@ -1,5 +1,5 @@
 # Databases
-Database project at University of Bath using SQLite and Python
+Database project at University of Bath using SQLite and Python. 
 
 Programme to create and manage employee database.
  
